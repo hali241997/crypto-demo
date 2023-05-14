@@ -15,7 +15,6 @@ const SocialLinks: FC = () => {
         fontSize="18px"
         lineHeight="20px"
         fontWeight="bold"
-        color="white"
         letterSpacing="0.1em"
         mb="15px"
       >

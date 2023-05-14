@@ -28,12 +28,7 @@ const Footer: FC = () => {
       >
         <SocialLinks />
 
-        <Text
-          textAlign="center"
-          fontSize="14px"
-          lineHeight="24px"
-          color="white"
-        >
+        <Text textAlign="center" fontSize="14px" lineHeight="24px">
           Copyright ©Fullet 2022. All rights reserved.
         </Text>
 
