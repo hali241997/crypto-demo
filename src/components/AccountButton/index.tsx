@@ -28,13 +28,7 @@ const AccountButton: FC = () => {
         />
       </Box>
 
-      <Text
-        color="#9A99AD"
-        fontSize="16px"
-        fontWeight="medium"
-        flex={1}
-        ml="15px"
-      >
+      <Text color="grey" fontSize="16px" fontWeight="medium" flex={1} ml="15px">
         0x7132...084
       </Text>
     </Flex>

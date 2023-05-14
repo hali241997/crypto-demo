@@ -2,9 +2,9 @@
 
 import { Flex } from "@chakra-ui/react";
 import { FC } from "react";
-import Logo from "../Logo";
 import Menu from "../Menu";
 import Navigation from "../Navigation";
+import LogoIcon from "@/icons/LogoIcon";
 
 const Header: FC = () => {
   return (
@@ -13,7 +13,7 @@ const Header: FC = () => {
       alignItems="center"
       justifyContent="space-between"
     >
-      <Logo />
+      <LogoIcon />
       <Menu />
       <Navigation />
     </Flex>
