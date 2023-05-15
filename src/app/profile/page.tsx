@@ -15,6 +15,7 @@ const Profile: FC = () => {
   return (
     <Box pl="133px" pr="147px">
       <Heading />
+
       <Networks />
 
       <Flex mb="16px" justifyContent="space-between">

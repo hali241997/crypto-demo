@@ -15,23 +15,23 @@ const Networks: FC = () => {
       },
       {
         name: "Ethereum",
-        image: "",
+        image: "/images/ethereum.png",
       },
       {
         name: "Binance",
-        image: "",
+        image: "/images/binance.png",
       },
       {
         name: "Avalanche",
-        image: "",
+        image: "/images/binance.png",
       },
       {
         name: "Polygon",
-        image: "",
+        image: "/images/binance.png",
       },
       {
         name: "Fantom",
-        image: "",
+        image: "/images/binance.png",
       },
     ],
     []
